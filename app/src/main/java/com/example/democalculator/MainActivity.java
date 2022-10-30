@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity {
     {
         data.setText("");
         workings = "";
-        data.setText("");
+        output.setText("");
         leftBracket = true;
     }
 
