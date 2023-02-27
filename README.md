@@ -1,2 +1,2 @@
 # CALCULATOR APP
-* A calculator app built in Android Studio with Java
+* This is an Android Application built using Java
